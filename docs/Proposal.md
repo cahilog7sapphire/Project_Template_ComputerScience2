@@ -39,7 +39,7 @@ Data is stored using a list (array) made up of dictionaries.
 Main Menu:
 ```text
 ==================================================
-   SMART PANTRY INVENTORY & EXPIRATION TRACKER
+                    FreshGuard
 ==================================================
 1. View All Items
 2. Add New Item
