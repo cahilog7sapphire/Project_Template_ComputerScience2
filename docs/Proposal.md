@@ -1,12 +1,11 @@
 # Smart Pantry Inventory and Expiration Tracker
 
 ## Summary
-Smart Pantry Inventory and Expiration Tracker is a single-file, console-based application that allows the user to keep track of food items in the kitchen. Food items in the user’s pantry can be easily added and stored into a list (array) in Python in order to make the application very simple to run.
 
 ---
 
 ## Problem
-
+People often forget what food is inside their fridge or pantry until it spoils and goes to waste. Writing things down on paper is messy and easy to lose. FreshGuard solves this by organizing your food list in Python and checking expiration dates automatically so you know what to eat first.
 
 ---
 
